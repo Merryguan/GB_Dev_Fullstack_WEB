@@ -20,12 +20,13 @@ img {
 }
 
 .center {
-  /*
+  
   padding-left: calc(50% - 570px);
   padding-right: calc(50% - 570px);
-  */
+  /*
   padding-left: 230px;
   padding-right: 230px;
+  */
 }
 .page {
   /*width: 1600px;*/
